@@ -143,3 +143,37 @@ Disallow: /
 
 User-agent: Omigili
 Disallow: /
+
+# Below here, a couple of SEO analyzers follow, since those often
+# seem to be run by gen AI loving companies that collect site data,
+# or at best not very useful:
+
+# Block SemRush SEO analyzer:
+
+User-agent: SiteAuditBot
+Disallow: /
+
+# Block SemRush SEO analyzer:
+
+User-agent: SemrushBot-BA 
+Disallow: /
+
+# Block archive.org (may no longer work, but worth a try):
+
+User-agent: ia_archiver
+Disallow: /
+
+# Block archive.org (may no longer work, but worth a try):
+
+User-agent: archive.org_bot
+Disallow: /
+
+# Block ahrefs.com SEO analyzer:
+
+User-agent: AhrefsBot
+Disallow: /
+
+# Block https://moz.com/help/moz-pro SEO analyzer:
+
+User-agent: rogerbot
+Disallow: / 
