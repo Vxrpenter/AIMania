@@ -83,5 +83,7 @@ There are also snippets that might inspire an anti AI `README.md` note:
 This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
 
 ## Why Attribution-NonCommercial-ShareAlike 4.0 International
-This licence does not permit commercial usage and should not allow AI scraping. *We are not lawyers and don't know too much
-about it so this statement is just taken from logical thinking*.
+
+The licence of this project does not permit commercial usage, which we hope will
+possibly provide plenty of headaches for AI scrapers. *This statement isn't legal
+advice, and we have no idea if it's true or not, but it still makes us happy.* 😊
