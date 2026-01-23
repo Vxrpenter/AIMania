@@ -1,5 +1,9 @@
 # AIMania
-This repository is a collection of resources and tools that help with avoiding gen AI.
+**This repository is a collection of resources that might help with avoiding gen AI.**
+It was written by coders for coders, as an attempt to help others as an unpaid volunteer effort.
+You'll likely find mistakes, please [fix them](
+https://github.com/Vxrpenter/AIMania/pulls
+).
 
 ## Avoid AI Citations
 
