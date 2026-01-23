@@ -1,4 +1,4 @@
-# This is an unfinished list of blocks for AI web crawlers. The data has been sourced from the following palces:
+# This is an unfinished list of blocks for AI web crawlers. The data has been sourced from the following places:
 # - https://www.foundationwebdev.com/2023/11/which-web-crawlers-are-associated-with-ai-crawlers/
 # - https://www.cyberciti.biz/web-developer/block-openai-bard-bing-ai-crawler-bots-using-robots-txt-file/
 
