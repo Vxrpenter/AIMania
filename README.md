@@ -17,7 +17,7 @@ it may still provide useful information for "casual" people.
 
 ## Software
 
-This is a uncomplete list of software to use when trying to avoid AI.
+This is an incomplete list of software to use when trying to avoid AI.
 ### Browsers
 - [Librewolf](https://librewolf.net/)
 - [Vivaldi](https://vivaldi.com/) - *depends on this [statement](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/)*
