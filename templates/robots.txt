@@ -1,0 +1,145 @@
+# This is an unfinished list of blocks for AI web crawlers. The data has been sourced from the following palces:
+# - https://www.foundationwebdev.com/2023/11/which-web-crawlers-are-associated-with-ai-crawlers/
+# - https://www.cyberciti.biz/web-developer/block-openai-bard-bing-ai-crawler-bots-using-robots-txt-file/
+
+#
+# Block OpenAI Crawlers (probably incomplete)
+#
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+#
+# Block Google Crawlers
+# - https://developers.google.com/crawling/docs/crawlers-fetchers/overview-google-crawlers
+
+# Crawling preferences addressed to the Google-CloudVertexBot user agent affect crawls requested by the site owners' for building Vertex AI Agents. It has no effect on Google Search or other products. 
+User-agent: Google-CloudVertexBot
+Disallow: /
+
+# Google-Extended is a standalone product token that web publishers can use to manage whether content Google crawls from their sites may be used for training future generations of Gemini models that power Gemini Apps
+# and Vertex AI API for Gemini and for grounding (providing content from the Google Search index to the model at prompt time to improve factuality and relevancy) in Gemini Apps and Grounding with Google Search on Vertex AI. 
+User-agent: Google-Extended
+Disallow: /
+
+#
+# Block Meta AI Training Crawlers
+#
+
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+# Allow link preview crawler (optional - comment out to block everything)
+User-agent: facebookexternalhit
+Allow: /
+
+#
+# Block common crawl non profit
+#
+
+User-agent: CCBot
+Disallow: /
+
+#
+# Block Perplexity Crawlers
+#
+
+User-agent: PerplexityBot
+Disallow: /
+
+#
+# Block Anthropic Crawlers
+#
+
+User-agent: anthropic-ai
+Disallow: /
+
+‍User-agent: Claude-Web
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+#
+# Block Amazon Crawlers
+#
+
+User-agent: Amazonbot
+Disallow: /
+
+#
+# Block Apple Crawlers
+#
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Applebot
+Disallow: /
+
+#
+# Block Bytedance Crawlers
+#
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+#
+# Block Cohere AI Crawlers
+#
+
+User-agent: cohere-ai
+Disallow: /
+
+#
+# Block Diffbot Crawlers
+#
+
+User-agent: Diffbot
+Disallow: /
+
+#
+# Block DuckDuckGo Crawlers
+#
+
+User-agent: DuckAssistBot
+Disallow: /
+
+#
+# Block Huawei Crawlers
+#
+
+User-agent: PetalBot
+Disallow: /
+
+#
+# Block ImagesiftBot Crawlers
+#
+
+User-agent: ImagesiftBot
+Disallow: /
+
+#
+# Block Webz.io Crawlers
+#
+
+User-agent: OmigiliBot
+Disallow: /
+
+User-agent: Omigili
+Disallow: /
