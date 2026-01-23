@@ -31,6 +31,9 @@ Currently hard to do, but here are some known options:
 - [Anubis](https://github.com/TecharoHQ/anubis). Sadly, using this will likely unlist
   all protected pages from web searches, too. But the landing page could be
   excluded, for example.
+- Blocking crawlers using [robots.txt](https://github.com/Vxrpenter/AIMania/blob/main/templates/robots.txt). It's important
+  to understand that AI companies are not forced to follow this file, they might, but could also ignore it. Most big companies will respect
+  it but you never know.
 
 # Clear AI Guidelines
 
