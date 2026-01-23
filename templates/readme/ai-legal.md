@@ -3,7 +3,7 @@ https://codeberg.org/Horse64/core.horse64.org/src/branch/main/docs/How%20to%20Co
 Use it at your own risk, since the text wasn't originally written to be a template
 for other projects. The `DCO` refers to the concept popularized by the [Linux
 Foundation](https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin). This
-text isn't legal advice, also see note below.)*
+text isn't legal advice and might be completely untrue, also see note below.)*
 
 
 # Why AI contributions are not allowed
