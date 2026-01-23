@@ -42,3 +42,6 @@ option to drive away the few people who respect rules set up by a maintainer.
 
 We have some examples for how such a Code Of Conduct might looks:
 - [Basic Anti AI COC](https://github.com/Vxrpenter/AIMania/blob/main/templates/git/CODE_OF_CONDUCT.md)
+
+There are also some snippets you can use in your `README.md`:
+- [No AI due to legal reasons](https://github.com/Vxrpenter/AIMania/blob/main/templates/readme/ai-legal.md)
