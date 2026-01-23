@@ -78,3 +78,6 @@ We have some examples for how such a Code Of Conduct might look like:
 
 There are also snippets that might inspire an anti AI `README.md` note:
 - [No AI due to legal reasons](https://github.com/Vxrpenter/AIMania/blob/main/examples/readme/ai-legal.md)
+
+# Footnote
+This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
