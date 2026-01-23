@@ -67,11 +67,12 @@ These are some filters for blocking AI buttons / content:
 
 ## Clear AI Guidelines
 
-Although it's unlikely that the AI enthusiast are going to follow a guideline / coc, it's still a viable
-option to drive away the few people who respect rules set up by a maintainer.
+Although it's unlikely that the AI enthusiast are going to follow a guideline / coc,
+it's still a viable option to drive away the few people who respect rules set up
+by a maintainer. Please note these are just examples, use any at your own risk.
 
-We have some examples for how such a Code Of Conduct might looks:
-- [Basic Anti AI COC](https://github.com/Vxrpenter/AIMania/blob/main/templates/git/CODE_OF_CONDUCT.md)
+We have some examples for how such a Code Of Conduct might look like:
+- [Basic Anti AI COC](https://github.com/Vxrpenter/AIMania/blob/main/examples/git/CODE_OF_CONDUCT.md)
 
-There are also some snippets you can use in your `README.md`:
+There are also snippets that might inspire an anti AI `README.md` note:
 - [No AI due to legal reasons](https://github.com/Vxrpenter/AIMania/blob/main/templates/readme/ai-legal.md)
