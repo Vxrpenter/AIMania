@@ -5,6 +5,12 @@ You'll likely find mistakes, please [fix them](
 https://github.com/Vxrpenter/AIMania/pulls
 ).
 
+# Content
+- [Avoid AI Citationsi](#avoid-ai-citations)
+- [Avoid AI Crawling](#avoid-ai-crawling)
+- [UBlock Filters](#ublock-filters)
+- [Clear AI Guidelines](#clear-ai-guidelines)
+
 ## Avoid AI Citations
 
 This section has strategies to avoid AI chat bots from interacting with your website or
