@@ -11,13 +11,13 @@ The text isn't legal advice and might be completely untrue, also see note below.
 For legal reasons, **we absolutely refuse to accept any contributions
 made by generative AI** since it might put this project's ecosystem
 into uncertainty and it seems unethical. (This isn't legal advice
-or a request for legal advice.)
+or a request for legal advice.) Here's why:
 
-To reduce risks, this project's DCO requires you to state if
-you made the contribution and can guarantee it's not plagiarized
-whenever you contribute. But with the legal situation around AI,
+To reduce risks, this project's DCO should be signed every time you
+contribute, to give more certainty that you made the contribution
+and it wasn't plagiarized. But regarding the legal  situation around AI,
 many industry analysists seem to suspect this isn't compatible with
-AI output, even if just auto-complete snippets. [See this article
+AI output, perhaps not even AI auto-complete snippets. [See this article
 for a more in-depth
 explanation, including other reasons like quality
 control](https://www.theregister.com/2024/04/16/gentoo_linux_ai_ban/).
