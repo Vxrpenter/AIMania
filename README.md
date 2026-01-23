@@ -58,7 +58,8 @@ Currently hard to do, but here are some known options:
 - Try to avoid code hosters that run on one of the big cloud providers that are known
   for gathering data for AI training, or that integrate gen AI directly into the UI.
   As of today, [Codeberg.org](https://codeberg.org) appears to be fairly safe, while
-  [Github.com integrates Co-Pilot AI deeply](https://github.com).
+  [Github.com appears to integrate Co-Pilot AI deeply](
+  https://www.theregister.com/2025/09/05/github_copilot_complaints/).
 
 ## UBlock Filters
 These are some filters for blocking AI buttons / content. When using some of these filters
