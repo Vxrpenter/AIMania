@@ -8,12 +8,12 @@ The text isn't legal advice and might be completely untrue, also see note below.
 
 # Why AI contributions are not allowed
 
-For legal reasons, **we absolutely cannot accept any contributions
-made by generative AI** since it might put `<project name>`'s ecosystem
+For legal reasons, **we absolutely refuse to accept any contributions
+made by generative AI** since it might put this project's ecosystem
 into uncertainty and it seems unethical. (This isn't legal advice
 or a request for legal advice.)
 
-To reduce risks, `<project name>`'s DCO requires you to state if
+To reduce risks, this project's DCO requires you to state if
 you made the contribution and can guarantee it's not plagiarized
 whenever you contribute. But with the legal situation around AI,
 many industry analysists seem to suspect this isn't compatible with
