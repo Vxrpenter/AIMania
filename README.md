@@ -61,7 +61,9 @@ Currently hard to do, but here are some known options:
   [Github.com integrates Co-Pilot AI deeply](https://github.com).
 
 ## UBlock Filters
-These are some filters for blocking AI buttons / content:
+These are some filters for blocking AI buttons / content. When using some of these filters
+you may experience a degraded experience because certain other buttons might not show up. The 
+easiest solution most of the times is reloading the page:
 - [GitHub Copilot Filters](https://codeberg.org/rossabaker/github-copilot-filters/src/branch/main/filters.txt)
 - [Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 
