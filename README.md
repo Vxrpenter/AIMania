@@ -6,10 +6,19 @@ https://github.com/Vxrpenter/AIMania/pulls
 ).
 
 # Content
+- [Software](#software)
+  - [Browsers](#browsers)
 - [Avoid AI Citationsi](#avoid-ai-citations)
 - [Avoid AI Crawling](#avoid-ai-crawling)
 - [UBlock Filters](#ublock-filters)
 - [Clear AI Guidelines](#clear-ai-guidelines)
+
+## Software
+
+This is a uncomplete list of software to use when trying to avoid AI.
+### Browsers
+- [Librewolf](https://librewolf.net/)
+- [Vivaldi](https://vivaldi.com/) - *depends on this [statement](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/)*
 
 ## Avoid AI Citations
 
