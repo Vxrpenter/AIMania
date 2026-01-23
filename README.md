@@ -84,6 +84,6 @@ This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-
 
 ## Why Attribution-NonCommercial-ShareAlike 4.0 International
 
-The licence of this project does not permit commercial usage, which we hope will
+The licence of this project was chosen to prevent commercial usage, which we hope will
 possibly provide plenty of headaches for AI scrapers. *This statement isn't legal
 advice, and we have no idea if it's true or not, but it still makes us happy.* 😊
