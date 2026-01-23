@@ -9,7 +9,7 @@ text isn't legal advice, also see note below.)*
 # Why AI contributions are not allowed
 
 For legal reasons, **we absolutely cannot accept any contributions
-made by generative AI** since it might put the projects ecosystem
+made by generative AI** since it might put `<project name>`'s ecosystem
 into uncertainty and it seems unethical. (This isn't legal advice
 or a request for legal advice.)
 
