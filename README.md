@@ -46,6 +46,7 @@ Currently hard to do, but here are some known options:
 ## UBlock Filters
 These are some filters for blocking AI buttons / content:
 - [GitHub Copilot Filters](https://codeberg.org/rossabaker/github-copilot-filters/src/branch/main/filters.txt)
+- [Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 
 ## Clear AI Guidelines
 
