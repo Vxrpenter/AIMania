@@ -26,11 +26,15 @@ It has a lot of integrated AI features which are complicated to deactivate and t
 MacOS is also not the best choice because Apple is generally leaning into the AI hype (and it's not really affordable for most people).
 
 In general, linux is your best choice for avoiding AI in your OS.
-Most distrobutions and desktop enviorments will respect your choices and not have AI integrated by default.
-> No mention of ChromeOS because it is small and owned by google, so AI is guaranteed.
+Most distributions and desktop enviorments will respect your choices and not have AI integrated by default.
+> Note that we do not recommend ChromeOS as it's future is currently unclear and could turn out bad.
+> If you want more information, check out these articles:
+> [ChromeOS to Android](https://www.androidauthority.com/chrome-os-becoming-android-3500661/) & [Sideloading Restrictions](https://troypoint.com/google-confirms-android-sideloading-restrictions-for-2026/)
 
 We don't want to recommend specific linux distros, because this topic is really subjective and can lead to a lot of negative discourse.
 We are going to link some sources to get information on what distro you might want to choose / info on linux in general.
+- [Getting Started with Linux](https://www.youtube.com/watch?v=WvR-6CVI-Mc) *Pretty good introduction for beginners*
+- [Major Linux Distributions](https://distrowatch.com/dwres.php?resource=major) *Basically all that you need to worry about*
 - [DistroWatch](https://distrowatch.com/) *Information on linux news and distro rankings*
 
 ### Browsers
