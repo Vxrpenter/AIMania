@@ -9,6 +9,7 @@ it may still provide useful information for "casual" people.
 
 # Content
 - [Software](#software)
+  - [Operating System](#operating-system)
   - [Browsers](#browsers)
 - [Avoid AI Citations](#avoid-ai-citations)
 - [Avoid AI Crawling](#avoid-ai-crawling)
