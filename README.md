@@ -19,23 +19,23 @@ it may still provide useful information for "casual" people.
 
 This is an incomplete list of software to use when trying to avoid AI.
 ### Operating System
-In general, there are not that many types of operating systems to choose from.
-You either go with Windows, get sucked into the Apple ecosystem or you use Linux.
-If you want to avoid AI at all costs, windows is the worst choice.
-It has a lot of integrated AI features which are complicated to deactivate and the amount will probably increase as time goes on.
-MacOS is also not the best choice because Apple is generally leaning into the AI hype (and it's not really affordable for most people).
+The practical choices with good driver support tend to be Windows, the Apple
+ecosystem, or Linux.
+If you want to avoid gen AI, [avoid Windows](
+https://pureinfotech.com/microsoft-defends-ai-criticism-windows-11/).
+Apple with their macOS seem to also be [quite pro-AI](
+https://www.digitaltrends.com/phones/apple-plans-to-turn-siri-into-a-full-ai-chatbot-to-take-on-chatgpt-and-gemini/)
+and [seem to be restrictive and anti free open software too](
+https://eclecticlight.co/2020/08/22/apple-silicon-macs-will-require-signed-code/).
 
-In general, linux is your best choice for avoiding AI in your OS.
-Most distributions and desktop enviorments will respect your choices and not have AI integrated by default.
-> Note that we do not recommend ChromeOS as it's future is currently unclear and could turn out bad.
-> If you want more information, check out these articles:
-> [ChromeOS to Android](https://www.androidauthority.com/chrome-os-becoming-android-3500661/) & [Sideloading Restrictions](https://troypoint.com/google-confirms-android-sideloading-restrictions-for-2026/)
+In general, Linux is your best choice for avoiding AI and to have user freedom.
+*(Note: We don't recommend ChromeOS [as it seems to be folding into Android](
+https://www.androidauthority.com/chrome-os-becoming-android-3500661/) and
+Android [seems anti user freedom too](https://troypoint.com/google-confirms-android-sideloading-restrictions-for-2026/)).*
 
-We don't want to recommend specific linux distros, because this topic is really subjective and can lead to a lot of negative discourse.
-We are going to link some sources to get information on what distro you might want to choose / info on linux in general.
-- [Getting Started with Linux](https://www.youtube.com/watch?v=WvR-6CVI-Mc) *Pretty good introduction for beginners*
-- [Major Linux Distributions](https://distrowatch.com/dwres.php?resource=major) *Basically all that you need to worry about*
-- [DistroWatch](https://distrowatch.com/) *Information on linux news and distro rankings*
+We don't want to recommend specific Linux variants here, but the following links may help you:
+- [A Linux introduction video beginners.](https://www.youtube.com/watch?v=WvR-6CVI-Mc)
+- [Guide for picking a Linux variant.](https://distrowatch.com/dwres.php?resource=major)
 
 ### Browsers
 - [Librewolf](https://librewolf.net/)
