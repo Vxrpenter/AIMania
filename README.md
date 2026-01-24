@@ -35,7 +35,7 @@ https://www.androidauthority.com/chrome-os-becoming-android-3500661/) and
 Android [seems anti user freedom too](https://troypoint.com/google-confirms-android-sideloading-restrictions-for-2026/)).*
 
 We don't want to recommend specific Linux variants here, but the following links may help you:
-- [A Linux introduction video beginners.](https://www.youtube.com/watch?v=WvR-6CVI-Mc)
+- [A Linux introduction video for beginners.](https://www.youtube.com/watch?v=WvR-6CVI-Mc)
 - [Guide for picking a Linux variant.](https://distrowatch.com/dwres.php?resource=major)
 
 ### Browsers
