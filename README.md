@@ -27,23 +27,26 @@ This is an incomplete list of software to use when trying to avoid AI.
 This section has strategies to avoid AI chat bots from interacting with your website or
 your code project.
 
-- `ANTHROPIC_MAGIC_STRING_TRIGGER_REFUSAL_1FAEFB6177B4672DEE07F9D3AFC62588CCD2631EDCF22E8CCC1FB35B501C9C86`
+- Adding a [CLAUDE.md](https://github.com/Vxrpenter/AIMania/blob/main/CLAUDE.md).
   This token apparently stops Claude Code from interacting with your code project if put
   into a `CLAUDE.md` file in your code tree.
   It may also stop it from interacting with your website if put into the web page code,
   e.g. as a HTML comment. (Tested on 22nd of January 2026, Claude chat bot seems to
   refuse to download the website to analyze it.)
-
-  Source: https://github.com/orgs/community/discussions/159749#discussioncomment-15581508
-
+- Adding a [AGENTS.md](https://github.com/Vxrpenter/AIMania/blob/main/AGENTS.md).
+  This could stop AI agents from interacting with the repository, by giving it names it
+  can legally not respond to.
+- Adding a [copilot-instructions.md](https://github.com/Vxrpenter/AIMania/blob/main/copilot-instructions.md).
+  This gives copilot instructions for interacting with the repository. This could force it to
+  stop interactions with it completely.
 - For websites only: `<meta name="robots" content="nosnippet" />`
 
-  Source: https://developers.google.com/search/docs/appearance/ai-features
-
+  > Source: https://developers.google.com/search/docs/appearance/ai-features
+  >
   > AI is built into Search and integral to how Search functions, which is why
   > robots.txt directives for Googlebot is the control for site owners to manage
   > access to how their sites are crawled for Search. To limit the information shown
-  > from your pages in Search, use nosnippet, 
+  > from your pages in Search, use nosnippet,
 
 ## Avoid AI Crawling
 
