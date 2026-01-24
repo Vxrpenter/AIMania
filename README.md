@@ -55,6 +55,9 @@ Currently hard to do, but here are some known options:
 - [Anubis](https://github.com/TecharoHQ/anubis). Sadly, using this will likely unlist
   all protected pages from web searches, too. But the landing page could be
   excluded, for example.
+  - Anubis can be configured to [allow well-behaved bots and legitimate automation scenarios](https://anubis.techaro.lol/docs/admin/policies/) if you so desire
+- [Iocaine](https://iocaine.madhouse-project.org/). A lightweight garbage generator that aims to keep AI crawlers away from heavy operations, and instead traps them in a maze made to poison the dataset.
+  - The default handler does a lot, but the author also provides their own handler in the form of [Nam-Shub of Enki](https://3.nam-shub-of-enki.iocaine.madhouse-project.org/index.html).
 - Blocking crawlers using [robots.txt](https://github.com/Vxrpenter/AIMania/blob/main/templates/robots.txt). It's important
   to understand that AI companies are not forced to follow this file, they might, but could also ignore it. Most big companies will respect
   it but you never know.
