@@ -5,7 +5,7 @@ We as members, contributors, and leaders pledge to make participation in our com
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
 ## Our Standards
-As a community we have certain standarts that shall not be ignored or removed. They are the base of the project and stand above all other rules.
+As a community we have certain standards that shall not be ignored or removed. They are the base of the project and stand above all other rules.
 
 ### AI Usage
 AI has been applied to a lot of different fields over the years, being used more and more as time goes on. 
