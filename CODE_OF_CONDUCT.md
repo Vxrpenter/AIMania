@@ -32,7 +32,7 @@ This is a small list of examples where AI usage is forbidden. Do note that any u
 
 ## Point of Contact
 
-If you ever feel like this code of condact isn't being adhered to, we suggest you either 1. bring it up in the [discussion forum](https://github.com/Vxrpenter), or 2. pick one of the contributors who volunteer to receive complaints, [github.com/@Vxrpenter](https://github.com/Vxrpenter) and [github.com/@ell1e](https://github.com/ell1e) at the time of writing. If you find this list to be outdated, please drop a note in the discussion forum.
+If you ever feel like this code of condact isn't being adhered to, we suggest you either 1. bring it up in the [discussion forum](https://github.com/Vxrpenter/AIMania/discussions), or 2. pick one of the contributors who volunteer to receive complaints, [github.com/@Vxrpenter](https://github.com/Vxrpenter) and [github.com/@ell1e](https://github.com/ell1e) at the time of writing. If you find this list to be outdated, please drop a note in the discussion forum.
 
 
 ## Attribution
