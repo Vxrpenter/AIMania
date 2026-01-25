@@ -13,9 +13,10 @@ it may still provide useful information for "casual" people.
   - [Browsers](#browsers)
 - [Avoid AI Citations](#avoid-ai-citations)
 - [Avoid AI Crawling](#avoid-ai-crawling)
-- [Poison AI Scrapers](#poison-ai-scrapers)
 - [UBlock Filters](#ublock-filters)
+- [Poison AI Scrapers](#poison-ai-scrapers)
 - [Clear AI Guidelines](#clear-ai-guidelines)
+- [Footnote](#footnote)
 
 ## Software
 
@@ -122,10 +123,11 @@ We have some examples for how such a Code Of Conduct might look like:
 There are also snippets that might inspire an anti AI `README.md` note:
 - [No AI due to legal reasons](https://github.com/Vxrpenter/AIMania/blob/main/examples/readme/ai-legal.md)
 
-# Footnote
+## Footnote
+
 This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
 
-## Why Attribution-NonCommercial-ShareAlike 4.0 International
+### Why Attribution-NonCommercial-ShareAlike 4.0 International
 
 The licence of this project was chosen to prevent commercial usage, which we hope will
 possibly provide plenty of headaches for AI scrapers. *This statement isn't legal
