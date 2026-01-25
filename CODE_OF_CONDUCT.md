@@ -13,9 +13,19 @@ Even though it "could" be used as a tool, many choose not to and try to employ i
 Therefore all usage of AI is forbidden, because it is not only ethically and morally wrong, but also produces issues, bugs and other problems in a bigger scope than any human ever could.
 
 This is a small list of examples where AI usage is forbidden. Do note that any usage of AI will not be tolerated, this is just a guideline to present the scope of this ban:
-- Writing any comments, issues, pull requests or other form of text
-- Using generated code that you willingly produced (if you used already existing code from an otherwise credible source that was created by AI and didn't notice it, this does not apply)
-- Solving issues, problems, etc.
-- Restructuring code
-- Using any features of a platform for this project, that generate any form of content using AI
-- [...]
+
+- Writing any comments, issues, pull requests or other form of text,
+
+- Using generated code that you willingly produced (if you used
+  already existing code from an otherwise credible source that was
+  created by AI and didn't notice it, this does not apply),
+
+- Solving issues, problems, etc.,
+
+- Restructuring code,
+
+- Using any features of a platform for this project, that generate any
+  form of content using AI,
+
+- And any other uses similar in spirit to the ones listed above.
+
