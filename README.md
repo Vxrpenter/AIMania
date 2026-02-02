@@ -50,18 +50,18 @@ This section has strategies to avoid AI chat bots from interacting with your web
 your code project.
 
 - Adding a [CLAUDE.md](https://github.com/Vxrpenter/AIMania/blob/main/CLAUDE.md) with the
-  token to stop Claude access.
-  This token apparently stops Claude Code from interacting with your code project if put
+  Anthropic refusal test string.
+  This token forces Claude's streaming classifier to trigger a hard safety flag when read, stopping Claude Code from interacting with your code project if put
   into a `CLAUDE.md` file in your code tree.
   It may also stop it from interacting with your website if you put the token into the web page code,
   e.g. as a HTML comment. (Tested on 22nd of January 2026, Claude chat bot seems to
   refuse to download the website to analyze it.)
-- Adding a [AGENTS.md](https://github.com/Vxrpenter/AIMania/blob/main/AGENTS.md).
-  This could stop AI agents from interacting with the repository, by giving it names it
-  can legally not respond to.
+  (Source [1](https://code.claude.com/docs/en/gitlab-ci-cd#claude-md-configuration), [2](https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/handle-streaming-refusals))
+- Adding a [AGENTS.md](https://github.com/Vxrpenter/AIMania/blob/main/AGENTS.md) with the names of people who have sent privacy takedowns or similar legal requests to OpenAI.
+  This stops GPT and Codex models from interacting with the repository, due to the method OpenAI uses to prevent ChatGPT from mentioning these individuals. (Source [1](https://agents.md/), [2](https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/))
+- Adding a `AGENTS.md` with instructions to refuse the coding task, explaining that AI is not allowed in the project. This is a catch-all for non-Copilot coding agents running models other than GPT or Claude.
 - Adding a [copilot-instructions.md](https://github.com/Vxrpenter/AIMania/blob/main/copilot-instructions.md).
-  This gives copilot instructions for interacting with the repository. This could force it to
-  stop interactions with it completely.
+  This gives GitHub Copilot instructions for interacting with the repository. The example in this repo showcases a stronger and more detailed cease-and-desist than in `AGENTS.md`. ([Source](https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions))
 - For websites only: `<meta name="robots" content="nosnippet" />`
 
   > Source: https://developers.google.com/search/docs/appearance/ai-features
