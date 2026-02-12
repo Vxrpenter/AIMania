@@ -8,6 +8,7 @@ try to always provide the data sources. Even though this repository is primarily
 it may still provide useful information for "casual" people.
 
 # Content
+- [Why](#why)
 - [Software](#software)
   - [Operating System](#operating-system)
   - [Browsers](#browsers)
@@ -17,6 +18,12 @@ it may still provide useful information for "casual" people.
 - [Poison AI Scrapers](#poison-ai-scrapers)
 - [Clear AI Guidelines](#clear-ai-guidelines)
 - [Footnote](#footnote)
+
+## Why
+
+For information on *why* gen AI should be avoided,
+[see this summary of concerns regarding gen
+AI](/WHY.md). You may find this useful in discussions.
 
 ## Software
 
