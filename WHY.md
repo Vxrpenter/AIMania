@@ -12,8 +12,8 @@ opinion or random gut feeling.
 Extensive Plagiarism
 --------------------
 
-It appears like plagiarism of AI output is likely the norm rather than
-an exception. This means even if you're not prompting or tricking
+It appears like AI output committing plagiarism is likely the norm rather
+than an exception. This means even if you're not prompting or tricking
 the AI intentionally complete a known text, it seems likely that
 it will plagiarize.
 
@@ -27,7 +27,8 @@ it will plagiarize.
     Highlights of the above experiment about how extensively LLMs
     apparently plagiarize for a question that didn't ask them to do so:
 
-    > At a glance, this is an impressive summary. But it sounds weirdly familiar [...]
+    > At a glance, this is an impressive summary. But it sounds weirdly
+      familiar [...]
     
     > Bard didn’t merely copy facts when composing its answer; it lifted
       a good chunk of the text wholesale — wording, parentheses, non-US
@@ -52,6 +53,43 @@ it will plagiarize.
       exacerbate as both the size of LMs and their training data
       increase, [...] Plagiarized content
       can also contain individuals’ personal and sensitive information.
+
+This seems like a problem given it seems typically the training data
+is unlicensed and without consent of the people it was taken from:
+
+[In Cringe Video, OpenAI CTO Says She Doesn’t Know Where Sora’s Training
+Data Came From](
+    https://futurism.com/video-openai-cto-sora-training-data
+)
+
+> “We used publicly available data and licensed data,” Murati
+  responded to the resoundingly simple question. [...]
+  “You know, if they were publicly available — publicly available
+  to use,” the CTO answered [...]
+
+[The Unbelievable Scale of AI’s Pirated-Books Problem](
+    https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/
+)
+
+> Meta pirated millions of books to train its AI. [...]
+  Meta employees spoke with multiple companies about
+  licensing books and research papers, but they weren’t
+  thrilled with their options. [...]
+  Meta employees turned their attention to [...]
+  one of the largest of the pirated libraries that circulate online.
+  [...]
+  Eventually, the team at Meta got permission from “MZ”—an
+  apparent reference to Meta CEO Mark Zuckerberg—to download
+  nd use the data set.
+
+[GitHub support apparently admits Co-Pilot uses all Github
+training data](
+   https://archive.is/1EzVK
+)
+
+> I reached out to the team about this. Apparently all
+  public GitHub code was used in training. We don't
+  distinguish by license type.
 
 Naturally, this may raise concerns for people who believe either
 that copyright matters, or that simply think basic attribution of
@@ -83,13 +121,33 @@ detailed here:
   popular, more popular than it’s ever been, but revenue
   has plunged.
 
+And misuse of AI seems to be causing other problems for
+open-source projects, too:
+
+[Overrun with AI slop, cURL scraps bug bounties to ensure
+“intact mental health”](
+    https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/
+)
+
+> The project developer for one of the Internet’s most popular
+  networking tools is scrapping its vulnerability reward program
+  after being overrun by a spike in the submission of low-quality
+  reports, much of it AI-generated slop. [...]
+  AI slop has already flooded music-streaming services with so
+  many songs—often misattributed to real artists—that the
+  platforms are slowly becoming unusable for music discovery.
+  cURL’s move may be an early indication that something
+  similar is happening to bug bounty programs.
+
+
 Lack of Intelligence
 --------------------
 
 It seems like generative AI as known today, at the time of writing
 in 2026, isn't capable of basic logical reasoning:
 
-[Intelligencec Illusion: What Apple’s AI Study Reveals About Reasoning](
+[Intelligencec Illusion: What Apple’s AI Study Reveals About
+ Reasoning](
     https://www.forbes.com/sites/corneliawalther/2025/06/09/intelligence-illusion-what-apples-ai-study-reveals-about-reasoning/
 )
 
@@ -118,6 +176,19 @@ Questions](
   incorrect answers more than 50% of the time. Moreover,
   ChatGPT suffers from other quality issues such as verbosity,
   inconsistency, etc.
+
+[Do Users Write More Insecure Code with AI Assistants?](
+    https://dl.acm.org/doi/epdf/10.1145/3576915.3623157
+)
+
+> In this paper, we conduct a
+  user study to examine how users interact with AI code assistants
+  to solve a variety of security related tasks. [...]
+  We observed that participants who had access to the AI
+  assistant were more likely to introduce security vulnerabilities
+  for the majority of programming tasks, yet were also more likely
+  to rate their insecure answers as secure compared to those in
+  our control group.
 
 This seems to make generative AI effectively harmful for many
 advanced coding tasks, beyond the plagiarism concerns:
