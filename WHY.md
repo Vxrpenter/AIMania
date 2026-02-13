@@ -213,6 +213,61 @@ Hilarious, According to a New Study](
   it stands to reason that code generated after such firings is
   less accurate and secure than it was when humans were writing it 
 
+Privacy Concerns
+----------------
+
+Most people seem to access generative AI in some way where the
+processing of it happens using some cloud service. Users may even
+talk to gen AI chatbots [like a therapist](
+    https://fortune.com/2025/06/01/ai-therapy-chatgpt-characterai-psychology-psychiatry/
+), sharing deeply personal data in the process.
+
+However, it appears that e.g. OpenAI stores conversations for
+longer on their cloud servers, with potentially huge privacy
+implications later:
+
+[Be Careful What You Tell Your AI Chatbot](
+    https://hai.stanford.edu/news/be-careful-what-you-tell-your-ai-chatbot
+)
+
+> A Stanford study reveals that leading AI companies are
+  pulling user conversations for training, highlighting
+  privacy risks and a need for clearer policies. [...]
+  Given this trend, should users of AI-powered chat systems
+  worry about their privacy? “Absolutely yes,” says the study’s
+  lead author, Jennifer King, [...] “If you share sensitive
+  information in a dialogue with ChatGPT, Gemini, or other
+  frontier models, it may be collected and used for training,
+  even if it’s in a separate file that you uploaded during the
+  conversation.”
+
+[Your ChatGPT Chats Are About to Become Evidence: Why
+"Anonymization" Won't Save You](
+    https://www.joneswalker.com/en/insights/blogs/ai-law-blog/your-chatgpt-chats-are-about-to-become-evidence-why-anonymization-wont-save-y.html
+)
+
+> Earlier this month, US Magistrate Judge Ona Wang of the
+  Southern District of New York ordered OpenAI to hand over
+  20 million ChatGPT conversations [...]
+  As reported in Techdirt, research underscores this
+  challenge. Researchers downloaded and analyzed 1,000 of
+  the leaked conversations, spanning over 43 million words.
+  Among them, they discovered multiple chats that explicitly
+  mentioned personally identifiable information (PII),
+  such as full names, addresses, and ID numbers.
+
+[ChatGPT Bug Leaks Users’ Chat Histories](
+    https://www.bitdefender.com/en-us/blog/hotforsecurity/chatgpt-bug-leaks-users-chat-histories
+)
+
+> A nasty glitch hit ChatGPT this week, resulting in a
+  number of chat titles leaking out to other users. [...]
+  Users are promised a sandbox to privately enjoy ChatGPT’s
+  impressively coherent conversational skillset and knowledge,
+  complete with a chat history log. [...]
+  On Monday, ChatGPT glitched and shared some users’ chat
+  histories with strangers – that is only the individual chat
+  titles, not the content of the chats themselves.
 
 Damage to Education
 -------------------
