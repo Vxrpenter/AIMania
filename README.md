@@ -23,7 +23,7 @@ it may still provide useful information for "casual" people.
 
 For information on *why* gen AI should be avoided,
 [see this summary of concerns regarding gen
-AI](/WHY.md). You may find this useful in discussions.
+AI](/WHY.md#why). You may find this useful in discussions.
 
 ## Software
 
