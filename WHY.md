@@ -24,6 +24,18 @@ it will plagiarize.
        https://lcamtuf.substack.com/p/large-language-models-and-plagiarism
     )
 
+    Highlights of the above experiment about how extensively LLMs
+    apparently plagiarize for a question that didn't ask them to do so:
+
+    > At a glance, this is an impressive summary. But it sounds weirdly familiar [...]
+    
+    > Bard didn’t merely copy facts when composing its answer; it lifted
+      a good chunk of the text wholesale — wording, parentheses, non-US
+      units, and all.
+    
+    > I think we don’t grasp the vastness of the internet and don’t
+      realize how often LLMs can rely on simply copying other people’s work
+
   - A field study measuring the impact in a more systematic manner can
     be found here:
 
@@ -31,14 +43,14 @@ it will plagiarize.
      Conference 2023](
         https://dl.acm.org/doi/10.1145/3543507.3583199
     )
-
-    > Given that a majority of LMs’ training data is scraped from the
+    > Our results suggest that [...] three types of plagiarism widely
+      exist in LMs beyond memorization, [...]
+      Given that a majority of LMs’ training data is scraped from the
       Web without informing content owners, their reiteration of words,
       phrases, and even core ideas from training sets into generated
       texts has ethical implications. Their patterns are likely to
       exacerbate as both the size of LMs and their training data
-      increase, raising concerns about indiscriminately pursuing
-      larger models with larger training corpora. Plagiarized content
+      increase, [...] Plagiarized content
       can also contain individuals’ personal and sensitive information.
 
 Naturally, this may raise concerns for people who believe either
@@ -57,9 +69,22 @@ detailed here:
     https://www.404media.co/vibe-coding-is-killing-open-source-software-researchers-argue/
 )
 
+> The study Vibe Coding Kills Open Source [...] asks the question:
+  is vibe coding
+  economically sustainable? Can OSS survive when so many of its
+  users are takers and not givers? According to the study, no. 
 
-Stupidity
----------
+> “[...] under traditional OSS business models,
+  where maintainers primarily monetize direct user engagement…
+  higher adoption of vibe coding reduces OSS [...] welfare,”
+  the study said.
+
+> This is already happening. [...] Tailwind Labs is extremely
+  popular, more popular than it’s ever been, but revenue
+  has plunged.
+
+Lack of Intelligence
+--------------------
 
 It seems like generative AI as known today, at the time of writing
 in 2026, isn't capable of basic logical reasoning:
