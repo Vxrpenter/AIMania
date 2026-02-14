@@ -330,3 +330,119 @@ that reflects an actual live behind
 it, and so on. But this is on top of the many tangible
 problems listed above.
 
+
+Frequently Asked Questions
+--------------------------
+
+This section tries to answer a few frequently asked questions
+by AI users that came up in discussions.
+
+## Gen AI feels transformative to me, surely it is on some level?
+
+[Like linked and quoted above](#extensive-plagiarism), studies
+appear to show that the plagiarism rate seems extremely high,
+and the case
+study [linked above](#extensive-plagiarism) even suggests
+that the non-plagiarized parts tend to be
+hallucinated, and that gen AI has no logical thinking capability.
+
+It seems like a natural conclusion that therefore, there's unlikely
+to be much room for logical transformative thought in
+current days generative AI.
+
+Instead, generative AI appears to act more like a search engine,
+or a lossy compression of the work of others. When the output is
+good, you're likely seeing the work of an uncredited fellow human.
+
+## I need artwork for my project, and gen AI is my only option!
+
+There are artwork sites where artist consented to have their
+work reused, for example [Unsplash](https://unsplash.com). With
+gen AI, the result seems to effectively be [plagiarism of
+unconsenting artists](#extensive-plagiarism). If you respect
+artist's rights to their works in any way at all, you should
+care about their input. Also see [the question about copyright
+below](
+#copyright-only-serves-big-corpos-isnt-gen-AI-shaking-this-up-good
+).
+
+## I swear AI makes me actually code faster
+
+Studies suggest that [people believe they code faster, but
+often don't seem to actually be](
+https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/
+).
+
+> When developers are allowed to use AI tools, they take 19% longer to
+  complete issues—a significant slowdown that goes against developer
+  beliefs and expert forecasts. This gap between perception and reality
+  is striking: developers expected AI to speed them up by 24%, and even
+  after experiencing the slowdown, they still believed AI had sped them
+  up by 20%.
+
+A part of this mismatch could be that initially gen AI is a shortcut
+to getting started faster, but then the maintenance burden and code
+fixing burden may be higher than if you had written the code yourself.
+There's also the [lack of logical reasoning](
+#lack-of-intelligence
+), suggesting gen AI simply isn't able to write code coherently at
+a notable scale.
+
+Generally, [gen AI doesn't seem to be very good at many real world
+tasks beyond a basic pretense of looking useful](
+https://www.remotelabor.ai/paper.pdf
+):
+
+> Frontier AI agents perform near the floor on RLI, achieving an
+  automation rate of less than 3%, revealing a stark gap between
+  progress on computer use evaluations and the ability to perform
+  real and economically valuable work.
+
+Whatever the most significant factor might be, in overall the
+productivity gain for coders doesn't seem to be significant when
+looking at the big picture.
+
+## Copyright only serves big corpos, isn't gen AI shaking this up good?
+
+First of all, gen AI seems mostly driven by big corporations for
+the sake of [firing workers at a large scale](
+https://www.latimes.com/business/story/2025-11-20/ai-cited-in-close-to-50-000-job-cuts-as-tech-giants-accelerate-automation
+). This doesn't seem to be benefitting regular people much.
+
+And it appears that many artists and presses and so on, make a
+significant amount of money via their [back catalogue](
+https://www.canada.ca/content/dam/pch/documents/corporate/transparency/open-government/economic-profile-book-publishing-eng.pdf
+).
+
+> A strong backlist is a tremendous asset for any press as it can
+  provide a stable foundation for sales [...] backlist sales have
+  been rising as a proportion of total book sales, especially
+  during the pandemic when bricks-and-mortar stores were closed
+  or operating at reduced capacity.
+
+Also, most artists apparently don't make their money via funding
+mechanisms like patreon. It seems like especially for small
+artists, crowd funding may not work that well.
+
+Therefore, if you like art being part of society and don't want
+it to be funded purely by big commercial corporations serving
+mostly big money interests, small artists probably need a way to
+retain some control over selling their creations.
+
+Similarly, most open-source projects aren't licensed as
+[CC0](
+https://creativecommons.org/public-domain/cc0/
+). This seems to suggest people care about licensing and
+attribution, and may otherwise perhaps no longer contribute.
+
+And here's a thought experiment: what if you make a new
+generative AI trained purely on [GPL-licensed](
+https://en.wikipedia.org/wiki/GNU_General_Public_License
+) projects? Is that still in the spirit of the GPL, if
+the output then counts as "copyright-free" and the original
+projects get none of your changes or work contributed back?
+
+We're not lawyers so we can't give a definite answers. But
+it seems like all of these mechanisms may need copyright to
+work as a necessary evil.
+
