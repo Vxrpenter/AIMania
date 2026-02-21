@@ -149,6 +149,27 @@ open-source projects, too:
   cURL’s move may be an early indication that something
   similar is happening to bug bounty programs.
 
+Harm to Art
+-----------
+
+Beyond the more abstract harm of human art with a true message being
+replaced by [thoughtless](#lack-of-intelligence) AI-[plagiarized](
+#extensive-plagiarism) output, there appears to be documented
+financial damage to artists:
+
+[Artists face steep income decline due to AI, UNESCO
+finds](https://news.un.org/en/story/2026/02/1166989)
+
+> Music creators could see their revenues fall by 24 per cent,
+  while those working in the audiovisual sector may lose 21 per
+  cent of their income due to the expanding presence of AI
+  [...]
+
+> UNESCO Director-General Khaled El-Enany declared that the
+  current era represents a critical moment for the creative
+  economy; the report outlines more than 8,100 policy
+  measures and calls for urgent, coordinated action to
+  protect creators’ rights
 
 Lack of Intelligence
 --------------------
