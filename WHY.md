@@ -54,6 +54,11 @@ it will plagiarize.
       increase, [...] Plagiarized content
       can also contain individuals’ personal and sensitive information.
 
+  - Another example where GitHub [apparently gen AI plagiarized
+    a flow chart of a specific creator](
+    https://www.pcgamer.com/software/ai/microsoft-uses-plagiarized-ai-slop-flowchart-to-explain-how-github-works-removes-it-after-original-creator-calls-it-out-careless-blatantly-amateuristic-and-lacking-any-ambition-to-put-it-gently/
+    ).
+
 This seems like a problem given it seems typically the training data
 is unlicensed and without consent of the people it was taken from:
 
@@ -94,6 +99,11 @@ training data](
 Naturally, this may raise concerns for people who believe either
 that copyright matters, or that simply think basic attribution of
 who put in the work to craft something is morally relevant.
+
+(And if you want the [GPL license](
+https://en.wikipedia.org/wiki/GNU_General_Public_License
+) to still discourage hidden proprietary reuse of the respective
+code, this development should maybe worry you as well.)
 
 
 Open-Source Harm
