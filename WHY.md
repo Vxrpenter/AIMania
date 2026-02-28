@@ -382,22 +382,25 @@ Skill Erosion
 Gen AI use seems to erode skill even in experienced
 workers when relied upon to a non-trivial amount:
 
-[AI-Assisted Coding: Evolution or Erosion of Software Development
-Skills?](
-https://www.researchgate.net/publication/396190293_AI-Assisted_Coding_Evolution_or_Erosion_of_Software_Development_Skills
+[Relying on AI in colonoscopies risks eroding doctors’ skills,
+study warns](
+https://www.politico.eu/article/ai-colonoscopies-risks-doctors-skills-study-warns-medicine/
 )
 
-> Assistants such as GitHub Copilot or ChatGPT
-  provide real-time suggestions [...] This
-  feature, while convenient, tends to reduce the
-  mental effort required to produce code. Several
-  studies have shown that when a solution is
-  immediately proposed, the user tends to accept
-  it without questioning its relevance or
-  internal logic. [...]
-  Additionally, automating suggestions can
-  lead to decreased vigilance for potential bugs
-  or flaws
+>  Routine use of AI technology can cause the ability of
+   specialists to detect precancerous growths to decline by a
+   fifth, authors conclude.
+
+[ChatGPT May Be Eroding Critical Thinking Skills,
+According to a New MIT Study](
+https://time.com/7295195/ai-chatgpt-google-learning-school/
+)
+
+> Researchers used an EEG to record the writers’
+  brain activity across 32 regions, and found that of
+  the three groups, ChatGPT users had the lowest brain
+  engagement and “consistently underperformed at neural,
+  linguistic, and behavioral levels.”
 
 [AI is Creating a Generation of Illiterate Programmers](
 https://sebgnotes.com/blog/2025-01-30-the-hidden-cost-of-ai-assisted-development-skill-erosion/
@@ -431,14 +434,22 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC11239631/
   cognitive skills, AI-induced skill decay is a likely
   consequence of frequent engagement with AI assistants.
 
-[Relying on AI in colonoscopies risks eroding doctors’ skills,
-study warns](
-https://www.politico.eu/article/ai-colonoscopies-risks-doctors-skills-study-warns-medicine/
+[AI-Assisted Coding: Evolution or Erosion of Software Development
+Skills?](
+https://www.researchgate.net/publication/396190293_AI-Assisted_Coding_Evolution_or_Erosion_of_Software_Development_Skills
 )
 
->  Routine use of AI technology can cause the ability of
-   specialists to detect precancerous growths to decline by a
-   fifth, authors conclude. 
+> Assistants such as GitHub Copilot or ChatGPT
+  provide real-time suggestions [...] This
+  feature, while convenient, tends to reduce the
+  mental effort required to produce code. Several
+  studies have shown that when a solution is
+  immediately proposed, the user tends to accept
+  it without questioning its relevance or
+  internal logic. [...]
+  Additionally, automating suggestions can
+  lead to decreased vigilance for potential bugs
+  or flaws
 
 
 Environmental Destruction
