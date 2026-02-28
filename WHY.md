@@ -149,6 +149,7 @@ open-source projects, too:
   cURL’s move may be an early indication that something
   similar is happening to bug bounty programs.
 
+
 Harm to Art
 -----------
 
@@ -170,6 +171,7 @@ finds](https://news.un.org/en/story/2026/02/1166989)
   economy; the report outlines more than 8,100 policy
   measures and calls for urgent, coordinated action to
   protect creators’ rights
+
 
 Lack of Intelligence
 --------------------
@@ -208,6 +210,10 @@ Questions](
   ChatGPT suffers from other quality issues such as verbosity,
   inconsistency, etc.
 
+This seems to be also reflected in gen AI's apparent lack of ability
+to reliably produce well-reasoned software code that isn't full
+of security holes:
+
 [Do Users Write More Insecure Code with AI Assistants?](
     https://dl.acm.org/doi/epdf/10.1145/3576915.3623157
 )
@@ -243,6 +249,23 @@ Hilarious, According to a New Study](
 > With so many tech workers being laid off in favor of automation,
   it stands to reason that code generated after such firings is
   less accurate and secure than it was when humans were writing it 
+
+Gen AI also seems to fail at most non-trivial real world work tasks
+outside of coding:
+
+[AI fails at freelancer tasks 97% of the time, new 'Remote Labor
+Index' shows](
+https://www.zdnet.com/article/ai-failed-test-on-remote-freelance-jobs/
+)
+
+>  Researchers tested AI on remote freelance projects across fields
+   like game development, data analysis, and video animation. It
+   didn't go well.  [...]
+   Frontier AI agents perform near the floor on RLI, achieving
+   an automation rate of less than 3%, revealing a stark
+   gap between progress on computer use evaluations and the
+   ability to perform real and economically valuable work 
+
 
 Privacy Concerns
 ----------------
@@ -300,6 +323,7 @@ implications later:
   histories with strangers – that is only the individual chat
   titles, not the content of the chats themselves.
 
+
 Damage to Education
 -------------------
 
@@ -328,6 +352,93 @@ When Asked How Programs Actually Work](
   "undermine children's foundational development" and that
   "the damages it has already caused are daunting," though
   "fixable."
+
+
+Psychological Harm for Users
+----------------------------
+
+Gen AI seems to be so trained to please the user without any
+consideration for harm, that it seems to encourage delusion
+and other mental harm as well:
+
+[AI sycophancy isn’t just a quirk, experts consider it a
+‘dark pattern’ to turn users into profit](
+https://techcrunch.com/2025/08/25/ai-sycophancy-isnt-just-a-quirk-experts-consider-it-a-dark-pattern-to-turn-users-into-profit/
+)
+
+> That outcome can lead to what researchers and mental
+  health professionals call “AI-related psychosis,” a problem
+  that has become increasingly common as LLM-powered chatbots
+  have grown more popular. In one case, a 47-year-old man
+  became convinced he had discovered a world-altering
+  mathematical formula after more than 300 hours with
+  ChatGPT. Other cases have involved messianic delusions,
+  paranoia, and manic episodes.
+
+
+Skill Erosion
+-------------
+
+Gen AI use seems to erode skill even in experienced
+workers, when they rely on it too much:
+
+[AI-Assisted Coding: Evolution or Erosion of Software Development
+Skills?](
+https://www.researchgate.net/publication/396190293_AI-Assisted_Coding_Evolution_or_Erosion_of_Software_Development_Skills
+)
+
+> Assistants such as GitHub Copilot or ChatGPT
+  provide real-time suggestions [...] This
+  feature, while convenient, tends to reduce the
+  mental effort required to produce code. Several
+  studies have shown that when a solution is
+  immediately proposed, the user tends to accept
+  it without questioning its relevance or
+  internal logic. [...]
+  Additionally, automating suggestions can
+  lead to decreased vigilance for potential bugs
+  or flaws
+
+[AI is Creating a Generation of Illiterate Programmers](
+https://sebgnotes.com/blog/2025-01-30-the-hidden-cost-of-ai-assisted-development-skill-erosion/
+)
+
+> I noticed it three months ago. A race condition
+  that should have been obvious, [...] It took me two
+  hours to find. Two years earlier, it would have taken
+  twenty minutes. [...]
+  Researchers at Aalto University studied an accounting
+  firm that had experienced similar erosion. Their 2023
+  paper, “The Vicious Circles of Skill Erosion,” found
+  something troubling: the degradation was invisible to
+  both workers and managers. Automation fostered
+  complacency. Skills eroded gradually, acknowledged by
+  no one. The software data tells the same story. In a
+  2025 study, experienced developers expected AI to speed
+  them up by 24%. The actual result: AI increased completion
+  time by 19%.
+
+[Does using artificial intelligence assistance accelerate
+skill decay and hinder skill development without performers’
+awareness?](
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11239631/
+)
+
+> The available evidence suggests that frequent engagement with
+  automation induces skill decay. Given that (a) AI is often
+  designed to take over more advanced cognitive processes than
+  non-AI automation, and (b) skill decay is accelerated for
+  cognitive skills, AI-induced skill decay is a likely
+  consequence of frequent engagement with AI assistants.
+
+[Relying on AI in colonoscopies risks eroding doctors’ skills,
+study warns](
+https://www.politico.eu/article/ai-colonoscopies-risks-doctors-skills-study-warns-medicine/
+)
+
+>  Routine use of AI technology can cause the ability of
+   specialists to detect precancerous growths to decline by a
+   fifth, authors conclude. 
 
 
 Environmental Destruction
