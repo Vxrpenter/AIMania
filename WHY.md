@@ -358,8 +358,8 @@ Psychological Harm for Users
 ----------------------------
 
 Gen AI seems to be so trained to please the user without any
-consideration for harm, that it seems to encourage delusion
-and other mental harm as well:
+consideration for harm that it encourages delusion
+and other mental harm:
 
 [AI sycophancy isn’t just a quirk, experts consider it a
 ‘dark pattern’ to turn users into profit](
@@ -380,7 +380,7 @@ Skill Erosion
 -------------
 
 Gen AI use seems to erode skill even in experienced
-workers, when they rely on it too much:
+workers when relied upon to a non-trivial amount:
 
 [AI-Assisted Coding: Evolution or Erosion of Software Development
 Skills?](
