@@ -14,7 +14,7 @@ Extensive Plagiarism
 
 It appears like AI output committing plagiarism is likely the norm rather
 than an exception. This means even if you're not prompting or tricking
-the AI intentionally complete a known text, it seems likely that
+the AI to intentionally complete a known text, it seems likely that
 it will plagiarize.
 
   - A case study that has quotes giving you a good intuitive idea can
