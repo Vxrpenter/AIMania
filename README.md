@@ -12,8 +12,10 @@ it may still provide useful information for "casual" people.
 - [Software](#software)
   - [Operating System](#operating-system)
   - [Browsers](#browsers)
-- [Avoid AI Citations](#avoid-ai-citations)
 - [Avoid AI Crawling](#avoid-ai-crawling)
+  - [Anti Data Mining Policy](#anti-data-mining-policy)
+  - [Other Preventative Measures](#other-preventative-measures)
+- [Avoid AI Citations](#avoid-ai-citations)
 - [UBlock Filters](#ublock-filters)
 - [Poison AI Scrapers](#poison-ai-scrapers)
 - [Clear AI Guidelines](#clear-ai-guidelines)
@@ -51,36 +53,20 @@ We don't want to recommend specific Linux variants here, but the following links
 - [Librewolf](https://librewolf.net/)
 - [Vivaldi](https://vivaldi.com/) - *depends on this [statement](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/)*
 
-## Avoid AI Citations
-
-This section has strategies to avoid AI chat bots from interacting with your website or
-your code project.
-
-- Adding a [CLAUDE.md](https://github.com/Vxrpenter/AIMania/blob/main/CLAUDE.md) with the
-  Anthropic refusal test string.
-  This token forces Claude's streaming classifier to trigger a hard safety flag when read, stopping Claude Code from interacting with your code project if put
-  into a `CLAUDE.md` file in your code tree.
-  It may also stop it from interacting with your website if you put the token into the web page code,
-  e.g. as a HTML comment. (Tested on 22nd of January 2026, Claude chat bot seems to
-  refuse to download the website to analyze it.)
-  (Source [1](https://code.claude.com/docs/en/gitlab-ci-cd#claude-md-configuration), [2](https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/handle-streaming-refusals))
-- Adding a [AGENTS.md](https://github.com/Vxrpenter/AIMania/blob/main/AGENTS.md) with the names of people who have sent privacy takedowns or similar legal requests to OpenAI.
-  This stops GPT and Codex models from interacting with the repository, due to the method OpenAI uses to prevent ChatGPT from mentioning these individuals. (Source [1](https://agents.md/), [2](https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/))
-- Adding a `AGENTS.md` with instructions to refuse the coding task, explaining that AI is not allowed in the project. This is a catch-all for non-Copilot coding agents running models other than GPT or Claude.
-- Adding a [copilot-instructions.md](https://github.com/Vxrpenter/AIMania/blob/main/copilot-instructions.md).
-  This gives GitHub Copilot instructions for interacting with the repository. The example in this repo showcases a stronger and more detailed cease-and-desist than in `AGENTS.md`. ([Source](https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions))
-- For websites only: `<meta name="robots" content="nosnippet" />`
-
-  > Source: https://developers.google.com/search/docs/appearance/ai-features
-  >
-  > AI is built into Search and integral to how Search functions, which is why
-  > robots.txt directives for Googlebot is the control for site owners to manage
-  > access to how their sites are crawled for Search. To limit the information shown
-  > from your pages in Search, use nosnippet,
-
 ## Avoid AI Crawling
 
-Currently hard to do, but here are some known options:
+### Anti Data Mining Policy
+
+There seems to be some way to indicate a no data mining policy by adding
+this HTTP header:
+
+    tdm-reservation: 1
+
+Source: https://www.w3.org/community/reports/tdmrep/CG-FINAL-tdmrep-20240510/#sec-tdm-header
+
+### Other Preventative Measures
+
+Other measures of enforcing this are hard to do, but here are some known options:
 
 - [Anubis](https://github.com/TecharoHQ/anubis). Sadly, using this will likely unlist
   all protected pages from web searches, too. But the landing page could be
@@ -117,6 +103,33 @@ once they snuck past blocking mechanisms, to disincentivize scraping.
 
 - [Iocaine](https://iocaine.madhouse-project.org/). A lightweight garbage generator that aims to keep AI crawlers away from heavy operations, and instead traps them in a maze made to poison the dataset.
   - The default handler does a lot, but the author also provides their own handler in the form of [Nam-Shub of Enki](https://3.nam-shub-of-enki.iocaine.madhouse-project.org/index.html).
+
+## Avoid AI Citations
+
+This section has strategies to avoid AI chat bots from interacting with your website or
+your code project.
+
+- Adding a [CLAUDE.md](https://github.com/Vxrpenter/AIMania/blob/main/CLAUDE.md) with the
+  Anthropic refusal test string.
+  This token forces Claude's streaming classifier to trigger a hard safety flag when read, stopping Claude Code from interacting with your code project if put
+  into a `CLAUDE.md` file in your code tree.
+  It may also stop it from interacting with your website if you put the token into the web page code,
+  e.g. as a HTML comment. (Tested on 22nd of January 2026, Claude chat bot seems to
+  refuse to download the website to analyze it.)
+  (Source [1](https://code.claude.com/docs/en/gitlab-ci-cd#claude-md-configuration), [2](https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/handle-streaming-refusals))
+- Adding a [AGENTS.md](https://github.com/Vxrpenter/AIMania/blob/main/AGENTS.md) with the names of people who have sent privacy takedowns or similar legal requests to OpenAI.
+  This stops GPT and Codex models from interacting with the repository, due to the method OpenAI uses to prevent ChatGPT from mentioning these individuals. (Source [1](https://agents.md/), [2](https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/))
+- Adding a `AGENTS.md` with instructions to refuse the coding task, explaining that AI is not allowed in the project. This is a catch-all for non-Copilot coding agents running models other than GPT or Claude.
+- Adding a [copilot-instructions.md](https://github.com/Vxrpenter/AIMania/blob/main/copilot-instructions.md).
+  This gives GitHub Copilot instructions for interacting with the repository. The example in this repo showcases a stronger and more detailed cease-and-desist than in `AGENTS.md`. ([Source](https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions))
+- For websites only: `<meta name="robots" content="nosnippet" />`
+
+  > Source: https://developers.google.com/search/docs/appearance/ai-features
+  >
+  > AI is built into Search and integral to how Search functions, which is why
+  > robots.txt directives for Googlebot is the control for site owners to manage
+  > access to how their sites are crawled for Search. To limit the information shown
+  > from your pages in Search, use nosnippet,
 
 ## Clear AI Guidelines
 
