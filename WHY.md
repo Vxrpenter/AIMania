@@ -112,7 +112,7 @@ code, this development should maybe worry you as well.)
 
 ### Lawsuits
 
-No writers were involved in the writing this document that
+No lawyers were involved in the writing this document that
 could give you any legal advice. However, after above
 observations, there are a few articles one might find
 interesting:
