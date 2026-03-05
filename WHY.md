@@ -267,6 +267,35 @@ https://www.zdnet.com/article/ai-failed-test-on-remote-freelance-jobs/
    ability to perform real and economically valuable work 
 
 
+Lies
+----
+
+Apparently the untruthful outputs of gen AI, which basically come across
+as lies in many situations, are unavoidable:
+
+[LLMs Will Always Hallucinate, and We Need to Live With This](
+https://arxiv.org/abs/2409.05746v1
+)
+
+> We demonstrate that hallucinations stem from the fundamental
+  mathematical and logical structure of LLMs. It is, therefore,
+  impossible to eliminate them through architectural improvements,
+  dataset enhancements, or fact-checking mechanisms.
+
+This apparently causes all sorts of real world problems:
+
+[The Concern Around Saying AI ‘Hallucinates’](
+https://www.bbc.com/news/world-us-canada-65735769
+)
+
+> A judge said the court was faced with an "unprecedented
+  circumstance" after a filing was found to reference example
+  legal cases that did not exist. [...] Mr Schwartz added
+  that he "greatly regrets" relying on the chatbot, which
+  he said he had never used for legal research before and
+  was "unaware that its content could be false".
+
+
 Privacy Concerns
 ----------------
 
