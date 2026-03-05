@@ -89,29 +89,6 @@ Other measures of enforcing this are hard to do, but here are some known options
   [Github.com appears to integrate Co-Pilot AI deeply](
   https://www.theregister.com/2025/09/05/github_copilot_complaints/).
 
-## UBlock Filters
-These are some filters for blocking AI buttons / content. When using some of these filters
-you may experience a degraded experience because certain other buttons might not show up. The 
-easiest solution most of the times is reloading the page:
-- [GitHub Copilot Filters](https://codeberg.org/rossabaker/github-copilot-filters/src/branch/main/filters.txt)
-- [Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
-
-## Poison AI Scrapers
-
-This section has ideas on how to poison the data of AI scrapers
-once they snuck past blocking mechanisms, to disincentivize scraping.
-
-- [Glaze](https://glaze.cs.uchicago.edu/index.html) is supposedly able to protect an artists artstyle from AI scraping, by slightly altering the image.
-  They claim that these changes are not visible to the human eye, but can project the artstyle from being scraped.
-
-- [Nightshade](https://nightshade.cs.uchicago.edu/) is supposedly able to poison AI data sets, by altering the image slightly, not noticeable to the human eye.
-> Sources:
-> - https://www.nytimes.com/2023/02/13/technology/ai-art-generator-lensa-stable-diffusion.html
-> - https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/
-
-- [Iocaine](https://iocaine.madhouse-project.org/). A lightweight garbage generator that aims to keep AI crawlers away from heavy operations, and instead traps them in a maze made to poison the dataset.
-  - The default handler does a lot, but the author also provides their own handler in the form of [Nam-Shub of Enki](https://3.nam-shub-of-enki.iocaine.madhouse-project.org/index.html).
-
 ## Avoid AI Citations
 
 This section has strategies to avoid AI chat bots from interacting with your website or
@@ -138,6 +115,30 @@ your code project.
   > robots.txt directives for Googlebot is the control for site owners to manage
   > access to how their sites are crawled for Search. To limit the information shown
   > from your pages in Search, use nosnippet,
+
+## UBlock Filters
+These are some filters for blocking AI buttons / content. When using some of these filters
+you may experience a degraded experience because certain other buttons might not show up. The 
+easiest solution most of the times is reloading the page:
+- [GitHub Copilot Filters](https://codeberg.org/rossabaker/github-copilot-filters/src/branch/main/filters.txt)
+- [Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+
+## Poison AI Scrapers
+
+This section has ideas on how to poison the data of AI scrapers
+once they snuck past blocking mechanisms, to disincentivize scraping.
+
+- [Glaze](https://glaze.cs.uchicago.edu/index.html) is supposedly able to protect an artists artstyle from AI scraping, by slightly altering the image.
+  They claim that these changes are not visible to the human eye, but can project the artstyle from being scraped.
+
+- [Nightshade](https://nightshade.cs.uchicago.edu/) is supposedly able to poison AI data sets, by altering the image slightly, not noticeable to the human eye.
+> Sources:
+> - https://www.nytimes.com/2023/02/13/technology/ai-art-generator-lensa-stable-diffusion.html
+> - https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/
+
+- [Iocaine](https://iocaine.madhouse-project.org/). A lightweight garbage generator that aims to keep AI crawlers away from heavy operations, and instead traps them in a maze made to poison the dataset.
+  - The default handler does a lot, but the author also provides their own handler in the form of [Nam-Shub of Enki](https://3.nam-shub-of-enki.iocaine.madhouse-project.org/index.html).
+
 
 ## Clear AI Guidelines
 
