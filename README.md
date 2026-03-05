@@ -57,12 +57,20 @@ We don't want to recommend specific Linux variants here, but the following links
 
 ### Anti Data Mining Policy
 
-There seems to be some way to indicate a no data mining policy by adding
-this HTTP header:
+There seems to be a way to indicate a no data mining policy by adding
+this **HTTP header:**
 
     tdm-reservation: 1
 
 Source: https://www.w3.org/community/reports/tdmrep/CG-FINAL-tdmrep-20240510/#sec-tdm-header
+
+For HTML files, there also seems to be this **HTML meta tag**:
+
+    <meta name="tdm-reservation" content="1">
+
+Source: https://www.w3.org/community/reports/tdmrep/CG-FINAL-tdmrep-20240510/#sec-tdm-html-meta
+
+(Please note the `tdm-policy` field appears to be entirely optional.)
 
 ### Other Preventative Measures
 
