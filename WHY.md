@@ -12,6 +12,8 @@ opinion or random gut feeling.
 Extensive Plagiarism
 --------------------
 
+### Observations about suspected plagiarism rate
+
 It appears like AI output committing plagiarism is likely the norm rather
 than an exception. This means even if you're not prompting or tricking
 the AI to intentionally complete a known text, it seems likely that
@@ -59,7 +61,10 @@ it will plagiarize.
     https://www.pcgamer.com/software/ai/microsoft-uses-plagiarized-ai-slop-flowchart-to-explain-how-github-works-removes-it-after-original-creator-calls-it-out-careless-blatantly-amateuristic-and-lacking-any-ambition-to-put-it-gently/
     ).
 
-This seems like a problem given it seems typically the training data
+### Statements about training data
+
+Above apparently observed plagiarism rates seem like a
+problem given it seems typically the training data
 is unlicensed and without consent of the people it was taken from:
 
 [In Cringe Video, OpenAI CTO Says She Doesn’t Know Where Sora’s Training
@@ -104,6 +109,45 @@ who put in the work to craft something is morally relevant.
 https://en.wikipedia.org/wiki/GNU_General_Public_License
 ) to still discourage hidden proprietary reuse of the respective
 code, this development should maybe worry you as well.)
+
+### Lawsuits
+
+No lawyers were involved in the writing this document that
+could give you any legal advice. However, after above
+observations, there are a few articles one might find
+interesting:
+
+[Landmark ruling of the Munich Regional Court (GEMA v OpenAI)
+on copyright and AI training](
+https://www.twobirds.com/en/insights/2025/landmark-ruling-of-the-munich-regional-court-(gema-v-openai)-on-copyright-and-ai-training
+)
+
+> The court confirmed that training large language models
+  will generally fall within the scope of application of
+  the text and data mining barriers, [...] the court
+  found that the reproduction of the disputed song lyrics
+  in the models does not constitute text and data mining,
+  as text and data mining aims at the evaluation of
+  information such as abstract syntactic regulations,
+  common terms and semantic relationships, whereas the
+  memorisation of the song lyrics at issue exceeds such
+  an evaluation and is therefore not mere text and data mining
+
+[Authors celebrate “historic” settlement coming soon in
+Anthropic class action](
+https://arstechnica.com/tech-policy/2025/08/authors-celebrate-historic-settlement-coming-soon-in-anthropic-class-action/
+)
+
+> Authors are celebrating a “historic” settlement expected
+  to be reached soon in a class-action lawsuit over
+  Anthropic’s AI training data. [...] The settlement
+  announcement comes after Alsup certified what AI
+  industry advocates criticized as the largest copyright
+  class action of all time.
+
+This isn't meant to give any answers or advice, rather
+it's intended to give you material useful to discuss
+potential concerns with somebody qualified.
 
 
 Open-Source Harm
