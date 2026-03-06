@@ -61,8 +61,8 @@ it will plagiarize.
     https://www.pcgamer.com/software/ai/microsoft-uses-plagiarized-ai-slop-flowchart-to-explain-how-github-works-removes-it-after-original-creator-calls-it-out-careless-blatantly-amateuristic-and-lacking-any-ambition-to-put-it-gently/
     ).
 
-  - An article about [apparenty gen AI memorizes entire books, and
-    can easily reproduce them](
+  - An article about how [apparenty gen AI memorizes entire books,
+    and can easily reproduce them](
     https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/
     ).
 
