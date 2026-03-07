@@ -61,6 +61,21 @@ it will plagiarize.
     https://www.pcgamer.com/software/ai/microsoft-uses-plagiarized-ai-slop-flowchart-to-explain-how-github-works-removes-it-after-original-creator-calls-it-out-careless-blatantly-amateuristic-and-lacking-any-ambition-to-put-it-gently/
     ).
 
+  - An article about how [apparently gen AI memorizes entire books,
+    and can easily reproduce them](
+    https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/
+    ).
+
+    > Four popular large language models—OpenAI’s GPT, Anthropic’s
+      Claude, Google’s Gemini, and xAI’s Grok—have stored large
+      portions of some of the books they’ve been trained on, and
+      can reproduce long excerpts from those books. [...]
+      This phenomenon has been called “memorization,” and AI
+      companies have long denied that it happens on a large scale.
+      [...]The Stanford study proves that there are such copies
+      in AI models, and it is just the latest of several studies
+      to do so.
+
 ### Statements about training data
 
 Above apparently observed plagiarism rates seem like a
@@ -192,6 +207,37 @@ open-source projects, too:
   platforms are slowly becoming unusable for music discovery.
   cURL’s move may be an early indication that something
   similar is happening to bug bounty programs.
+
+### License "Laundering"
+
+It seems like gen AI are sometimes used to try to
+sort of undo and remove the license of a project,
+by asking gen AI to rewrite it "cleanly":
+
+[Chardet dispute shows how AI will kill software
+licensing, argues Bruce Perens](
+https://www.theregister.com/2026/03/06/ai_kills_software_licensing/
+)
+
+> Zoë Kooyman, executive director for The Free Software
+  Foundation, told The Register in an email, "[...]
+  there is nothing 'clean' about a Large
+  Language Model (LLM) which has ingested the code it
+  is being asked to reimplement. [...]"
+
+> [Bruce Perens says,]
+  "In a different world, the issue of software and
+  AI would be dealt with by legislators and courts that 
+  understand that all AI training is copying and all AI
+  output is copying. [...]"
+
+This effect seems to sometimes be referred to as "License
+Laundering":
+
+[Can AI Launder Open Source Licenses? The Legal
+Paradox of Code Rewrites](
+https://www.mrlatte.net/en/stories/2026/03/05/relicensing-with-ai-assisted-rewrite/
+)
 
 
 Harm to Art
