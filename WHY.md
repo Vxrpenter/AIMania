@@ -208,7 +208,7 @@ open-source projects, too:
   cURL’s move may be an early indication that something
   similar is happening to bug bounty programs.
 
-### License "white-washing"
+### License "Laundering"
 
 It seems like gen AI are sometimes used to try to
 sort of undo and remove the license of a project,
@@ -229,7 +229,16 @@ https://www.theregister.com/2026/03/06/ai_kills_software_licensing/
   "In a different world, the issue of software and
   AI would be dealt with by legislators and courts that 
   understand that all AI training is copying and all AI
-  output is copying. [...]" 
+  output is copying. [...]"
+
+This effect seems to sometimes be referred to as "License
+Laundering":
+
+[Can AI Launder Open Source Licenses? The Legal
+Paradox of Code Rewrites](
+https://www.mrlatte.net/en/stories/2026/03/05/relicensing-with-ai-assisted-rewrite/
+)
+
 
 Harm to Art
 -----------
