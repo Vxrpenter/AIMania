@@ -160,6 +160,9 @@ https://arstechnica.com/tech-policy/2025/08/authors-celebrate-historic-settlemen
   industry advocates criticized as the largest copyright
   class action of all time.
 
+[A bunch more lawsuits](https://aiwatch.dog/lawsuits)
+still seem to be ongoing.
+
 This isn't meant to give any answers or advice, rather
 it's intended to give you material useful to discuss
 potential concerns with somebody qualified.
