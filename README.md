@@ -12,6 +12,7 @@ it may still provide useful information for "casual" people.
 - [Software](#software)
   - [Operating System](#operating-system)
   - [Browsers](#browsers)
+  - ["Slopware" List](#slopware-list)
 - [Avoid AI Crawling](#avoid-ai-crawling)
   - [Anti Data Mining Policy](#anti-data-mining-policy)
   - [Other Preventative Measures](#other-preventative-measures)
@@ -52,6 +53,13 @@ We don't want to recommend specific Linux variants here, but the following links
 ### Browsers
 - [Librewolf](https://librewolf.net/)
 - [Vivaldi](https://vivaldi.com/) - *depends on this [statement](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/)*
+
+### "Slopware" List
+
+There is a community-maintained list of software that is embracing LLM code,
+called "slopware", with projects you might consider avoiding:
+
+- [Open Slopware List](https://codeberg.org/small-hack/open-slopware)
 
 ## Avoid AI Crawling
 
