@@ -308,9 +308,16 @@ Questions](
 Apparently due to its lack of intelligence, gen AI seems to be
 notoriously bad at producing well-reasoned software code that
 isn't full of security holes and seems to **degrade code bases**
-(most up-to-date study on this is from Dec., 2025):
+(most up-to-date field study on this is from Dec., 2025, and
+the latest case study is from Mar. 2026):
 
-[Our new report: AI code creates 1.7x more problems](
+[An AI Wrote 576,000 Lines to Replace SQLite. It Ran 20,000×
+Slower. Claude Code Hit a $2.5B Run-Rate. (Latest Case Study)](
+https://medium.com/write-a-catalyst/an-ai-wrote-576-000-lines-to-replace-sqlite-7ea538826d72
+)
+
+[Our new report: AI code creates 1.7x more problems
+(Latest Field Study)](
 https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report
 )
 
