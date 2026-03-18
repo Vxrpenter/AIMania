@@ -167,6 +167,40 @@ This isn't meant to give any answers or advice, rather
 it's intended to give you material useful to discuss
 potential concerns with somebody qualified.
 
+### Model Growth and Plagiarism Correlation
+
+It seems that larger models and higher quality models
+(when measured for e.g. tasks like coding) tend to plagiarize
+even more, suggesting it is an inherent quality of LLMs
+needed to make them perform well:
+
+[An evaluation on large language model outputs:
+Discourse and memorization](
+https://www.sciencedirect.com/science/article/pii/S2949719123000213#b7
+)
+> In this work we explored the relationship between
+  discourse quality and memorization for LLMs. We
+  found that the models that consistently output the
+  highest-quality text are also the ones that have the
+  highest memorization rate.
+
+And it seems like the defenses put in place by the
+AI companies to make models don' plagiarize, may not work:
+
+[Extracting books from production language models](
+https://arxiv.org/abs/2601.02671
+)
+
+> recent work shows that substantial amounts of
+  copyrighted text can be extracted from open-weight models.
+  However, it remains an open question if similar
+  extraction is feasible for production LLMs, given the
+  safety measures [...]. We investigate this question [...]
+  our work highlights that, even with
+  model- and system-level safeguards, extraction of
+  (in-copyright) training data remains a risk for
+  production LLMs. 
+
 
 Open-Source Harm
 ----------------
