@@ -728,7 +728,7 @@ Whatever the most significant factor might be, in overall the
 productivity gain for coders doesn't seem to be significant when
 looking at the big picture.
 
-## Isn't AI democratizing access to AI art?
+## Isn't generative AI democratizing access to art?
 
 You may want to read [this article by Eric Reinhart](
 https://www.theguardian.com/commentisfree/2025/may/20/ai-art-concerns-originality-connection
