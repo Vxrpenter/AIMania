@@ -354,9 +354,34 @@ Questions](
   ChatGPT suffers from other quality issues such as verbosity,
   inconsistency, etc.
 
-This seems to be also reflected in gen AI's apparent lack of ability
-to reliably produce well-reasoned software code that isn't full
-of security holes:
+### Poor Code Quality and Poor Work Results
+
+Apparently due to its lack of intelligence, gen AI seems to be
+notoriously bad at producing well-reasoned software code that
+isn't full of security holes and seems to **degrade code bases**
+(most up-to-date field study on this is from Dec., 2025, and
+the latest case study is from Mar. 2026):
+
+[An AI Wrote 576,000 Lines to Replace SQLite. It Ran 20,000×
+Slower. Claude Code Hit a $2.5B Run-Rate. (Latest Case Study)](
+https://medium.com/write-a-catalyst/an-ai-wrote-576-000-lines-to-replace-sqlite-7ea538826d72
+)
+
+[Our new report: AI code creates 1.7x more problems
+(Latest Field Study)](
+https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report
+)
+
+> This year also brought several high-visibility incidents,
+  postmortems, and anecdotal stories pointing to AI-written
+  changes as a contributing factor. These weren’t fringe
+  cases or misuses. They involved otherwise normal pull
+  requests that simply embedded subtle mistakes. [...]
+  AI-generated PRs contained ~1.7× more issues overall.
+  Across 470 PRs, AI-authored changes produced 10.83
+  issues per PR, compared to 6.45 for human-only PRs.
+  Even more striking: high-issue outliers were much
+  more common in AI PRs, creating heavy review workloads.
 
 [Do Users Write More Insecure Code with AI Assistants?](
     https://dl.acm.org/doi/epdf/10.1145/3576915.3623157
@@ -727,6 +752,13 @@ https://www.remotelabor.ai/paper.pdf
 Whatever the most significant factor might be, in overall the
 productivity gain for coders doesn't seem to be significant when
 looking at the big picture.
+
+## Your studies are outdated and the newest AI code is actually good!
+
+The [latest studies we collected about AI code not seeming up to par,
+are from **December, 2025**](#poor-code-quality-and-poor-work-results).
+If you know a recent study that disproves this, please let us know and
+file an issue.
 
 ## Isn't generative AI democratizing access to art?
 
