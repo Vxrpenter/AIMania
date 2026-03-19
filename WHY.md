@@ -299,6 +299,23 @@ finds](https://news.un.org/en/story/2026/02/1166989)
   measures and calls for urgent, coordinated action to
   protect creators’ rights
 
+[The trouble with AI art isn’t just lack of originality.
+It’s something far bigger](
+https://www.theguardian.com/commentisfree/2025/may/20/ai-art-concerns-originality-connection
+)
+
+> When artwork is invented by a machine, it loses its
+  most important power: to help people connect. [...]
+  The loss of this connectedness has profound consequences [...]
+  Without shared experience that affirms and protects
+  difference, the ties that hold democratic life together
+  begin to fray. In their place emerge homogenizing
+  substitutes – tribalism, homo- and transphobia,
+  authoritarianism, fascist fantasies [...].
+  AI is not democratizing art and knowledge; it is
+  privatizing and automating it under the control
+  of billionaires 
+
 
 Lack of Intelligence
 --------------------
@@ -710,6 +727,24 @@ https://www.remotelabor.ai/paper.pdf
 Whatever the most significant factor might be, in overall the
 productivity gain for coders doesn't seem to be significant when
 looking at the big picture.
+
+## Isn't AI democratizing access to AI art?
+
+You may want to read [this article by Eric Reinhart](
+https://www.theguardian.com/commentisfree/2025/may/20/ai-art-concerns-originality-connection
+), most relevant quotes:
+
+> When artwork is invented by a machine, it loses its
+  most important power: to help people connect. [...]
+  The loss of this connectedness has profound consequences [...]
+  Without shared experience that affirms and protects
+  difference, the ties that hold democratic life together
+  begin to fray. In their place emerge homogenizing
+  substitutes – tribalism, homo- and transphobia,
+  authoritarianism, fascist fantasies [...].
+  AI is not democratizing art and knowledge; it is
+  privatizing and automating it under the control
+  of billionaires 
 
 ## Copyright only serves big corpos, isn't gen AI shaking this up good?
 
