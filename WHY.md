@@ -323,7 +323,7 @@ Lack of Intelligence
 It seems like generative AI as known today, at the time of writing
 in 2026, isn't capable of basic logical reasoning:
 
-[Intelligencec Illusion: What Apple’s AI Study Reveals About
+[Intelligence Illusion: What Apple’s AI Study Reveals About
  Reasoning](
     https://www.forbes.com/sites/corneliawalther/2025/06/09/intelligence-illusion-what-apples-ai-study-reveals-about-reasoning/
 )
