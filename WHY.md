@@ -436,6 +436,33 @@ https://www.zdnet.com/article/ai-failed-test-on-remote-freelance-jobs/
    ability to perform real and economically valuable work 
 
 
+Exploitation of Low-Wage Workers
+--------------------------------
+
+It seems like AIs were trained using a large amount of
+underpaid and improperly protected workers:
+
+['AI Is African Intelligence': The Workers Who Train AI
+Are Fighting Back](
+https://www.404media.co/ai-is-african-intelligence-the-workers-who-train-ai-are-fighting-back/
+)
+
+> Data labelers train, refine, and moderate the
+  outputs of AI tools made by the largest companies
+  in the world, yet they are wildly underpaid and
+  haven’t benefitted from the runaway valuations
+  of AI companies. [...]
+  These workers are required to stare at horrific
+  content for many hours straight with few
+  mental health resources [...]
+
+> [...] an office complex that houses Sama, a San
+  Francisco-headquartered “data annotation and
+  labeling company” [which] has been
+  sued repeatedly for its low pay and the fact
+  that many of its workers suffer PTSD
+
+
 Lies
 ----
 
