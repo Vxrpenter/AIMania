@@ -122,22 +122,19 @@ you may experience a degraded experience because certain other buttons might not
 easiest solution most of the times is reloading the page:
 - [GitHub Copilot Filters](https://codeberg.org/rossabaker/github-copilot-filters/src/branch/main/filters.txt)
 - [Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+- [uSloplist](https://github.com/Wakelock/uSloplist)
 
 ## Poison AI Scrapers
 
 This section has ideas on how to poison the data of AI scrapers
 once they snuck past blocking mechanisms, to disincentivize scraping.
 
-- [Glaze](https://glaze.cs.uchicago.edu/index.html) is supposedly able to protect an artists artstyle from AI scraping, by slightly altering the image.
-  They claim that these changes are not visible to the human eye, but can project the artstyle from being scraped.
-
-- [Nightshade](https://nightshade.cs.uchicago.edu/) is supposedly able to poison AI data sets, by altering the image slightly, not noticeable to the human eye.
-> Sources:
-> - https://www.nytimes.com/2023/02/13/technology/ai-art-generator-lensa-stable-diffusion.html
-> - https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/
-
+- [HarmonyDagger](https://github.com/jaschadub/harmonydagger). A FOSS, highly-customizable audio cloaking script.
+ 
 - [Iocaine](https://iocaine.madhouse-project.org/). A lightweight garbage generator that aims to keep AI crawlers away from heavy operations, and instead traps them in a maze made to poison the dataset.
   - The default handler does a lot, but the author also provides their own handler in the form of [Nam-Shub of Enki](https://3.nam-shub-of-enki.iocaine.madhouse-project.org/index.html).
+
+- ~~[Glaze](https://glaze.cs.uchicago.edu/index.html) and [Nightshade](https://nightshade.cs.uchicago.edu/).~~ Both are closed-source and have been reverse-engineered. Using them will unlikely poison newer models.
 
 
 ## Clear AI Guidelines
