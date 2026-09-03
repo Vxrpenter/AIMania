@@ -478,7 +478,8 @@ https://arxiv.org/abs/2409.05746v1
   impossible to eliminate them through architectural improvements,
   dataset enhancements, or fact-checking mechanisms.
 
-This apparently causes all sorts of real world problems:
+This apparently causes all sorts of real world problems for
+unaware users:
 
 [The Concern Around Saying AI ‘Hallucinates’](
 https://www.bbc.com/news/world-us-canada-65735769
@@ -490,6 +491,18 @@ https://www.bbc.com/news/world-us-canada-65735769
   that he "greatly regrets" relying on the chatbot, which
   he said he had never used for legal research before and
   was "unaware that its content could be false".
+
+[Testing suggests Google’s AI Overviews tell millions of
+lies per hour](
+https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/
+)
+
+> Looking up information on Google today means
+  confronting AI Overviews, [...]
+  A new analysis from The New York Times attempted to
+  assess the accuracy of AI Overviews, finding it’s
+  right 90 percent of the time. The flip side is
+  that 1 in 10 AI answers is wrong, [...]
 
 
 Privacy Concerns
