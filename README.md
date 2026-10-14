@@ -91,6 +91,7 @@ Other measures of enforcing this are hard to do, but here are some known options
 - Blocking crawlers using [robots.txt](https://github.com/Vxrpenter/AIMania/blob/main/examples/robots.txt). It's important
   to understand that AI companies are not forced to follow this file, they might, but could also ignore it. Most big companies will respect
   it but you never know.
+  - There is also [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt), a curated list for exactly this purpose that might be more up to date then our one.
 - Try to avoid code hosters that run on one of the big cloud providers that are known
   for gathering data for AI training, or that integrate gen AI directly into the UI.
   As of today, [Codeberg.org](https://codeberg.org) appears to be fairly safe, while
