@@ -121,6 +121,7 @@ These are some filters for blocking AI buttons / content. When using some of the
 you may experience a degraded experience because certain other buttons might not show up. The 
 easiest solution most of the times is reloading the page:
 - [GitHub Copilot Filters](https://codeberg.org/rossabaker/github-copilot-filters/src/branch/main/filters.txt)
+- [Stevos-AI-Blocklist](https://github.com/Stevoisiak/Stevos-AI-Blocklist)
 - [Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 - [uSloplist](https://github.com/Wakelock/uSloplist)
 
